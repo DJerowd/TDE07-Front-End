@@ -1,0 +1,9 @@
+.formsContainer {
+    margin: 250px;
+    text-align: center;
+    font-size: 24px;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #101010;
+    background-color: #C0C0C0;
+}
